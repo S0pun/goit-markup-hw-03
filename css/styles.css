@@ -137,8 +137,8 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  margin-bottom: 48px;
-  margin-left: 306px;
+  margin: 0 auto;
+  padding-bottom: 48px;
   max-width: 496px;
 }
 
@@ -155,7 +155,7 @@ img {
   height: 56px;
   display: block;
   border: none;
-  margin-left: 486px;
+  margin: 0 auto;
 }
 
 .hero-btn:hover,
