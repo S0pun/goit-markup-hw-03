@@ -249,7 +249,7 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 
 .our_team-item-text {
@@ -293,7 +293,7 @@ font-size: 20px;
 line-height: 1.20;
 letter-spacing: 0.02em;
 color: #2e2f42;
-padding-bottom: 8px;
+margin-bottom: 8px;
 }
 
 .our_portfolio-item {
